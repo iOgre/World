@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ingwa\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_World.-22521206.00" t="ExcludeRecursive" />
+    <e p="D:\Source\CoreLearn\World" t="IncludeRecursive">
+      <e p=".babelrc" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.0" t="Include">
+            <e p="World.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="package-lock.json" t="Include" />
+      <e p="package.json" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Startup.cs" t="Include" />
+      <e p="World.csproj" t="IncludeRecursive" />
+      <e p="World.sln" t="IncludeFlat" />
+      <e p="wwwroot" t="Include">
+        <e p="css" t="Include">
+          <e p="site.css" t="Include" />
+        </e>
+        <e p="favicon.ico" t="Include" />
+        <e p="img" t="Include">
+          <e p="avatar-1.jpg" t="Include" />
+        </e>
+        <e p="index.html" t="Include" />
+        <e p="js" t="Include">
+          <e p="site.js" t="Include" />
+        </e>
+      </e>
+      <e p="yarn.lock" t="Include" />
+    </e>
+  </component>
+</project>

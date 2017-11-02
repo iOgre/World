@@ -1,0 +1,11 @@
+D:\Source\CoreLearn\World\bin\Debug\netcoreapp2.0\World.deps.json
+D:\Source\CoreLearn\World\bin\Debug\netcoreapp2.0\World.runtimeconfig.json
+D:\Source\CoreLearn\World\bin\Debug\netcoreapp2.0\World.runtimeconfig.dev.json
+D:\Source\CoreLearn\World\bin\Debug\netcoreapp2.0\World.dll
+D:\Source\CoreLearn\World\bin\Debug\netcoreapp2.0\World.pdb
+D:\Source\CoreLearn\World\obj\Debug\netcoreapp2.0\World.csproj.CoreCompileInputs.cache
+D:\Source\CoreLearn\World\obj\Debug\netcoreapp2.0\World.AssemblyInfoInputs.cache
+D:\Source\CoreLearn\World\obj\Debug\netcoreapp2.0\World.AssemblyInfo.cs
+D:\Source\CoreLearn\World\obj\Debug\netcoreapp2.0\World.dll
+D:\Source\CoreLearn\World\obj\Debug\netcoreapp2.0\World.pdb
+D:\Source\CoreLearn\World\obj\Debug\netcoreapp2.0\World.csprojResolveAssemblyReference.cache
